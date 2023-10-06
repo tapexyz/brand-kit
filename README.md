@@ -1,1 +1,3 @@
-# BRAND KIT REPOSITORY FOR TAPE 📼
+# Brand Kit for TAPE
+📼 
+[TAPE.XYZ](https://tape.xyz)
